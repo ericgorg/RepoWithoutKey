@@ -1,4 +1,4 @@
 ## Hello Ignite
 
-/readblobcontent
+/writeblob
 with Managed Identity
